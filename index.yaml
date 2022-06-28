@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  shenyu:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-06-28T03:41:52.00581401Z"
+    description: A Helm chart for Kubernetes
+    digest: 3e14a7006a753d19ca0a66ea76cd49a811c427e9abb90d93abf7c2a6fda8f53e
+    icon: https://shenyu.apache.org/img/logo.png
+    maintainers:
+    - name: erdengk
+    name: shenyu
+    type: application
+    urls:
+    - https://github.com/erdengk/chart-test/releases/download/shenyu-2.4.21/shenyu-2.4.21.tgz
+    version: 2.4.21
+generated: "2022-06-28T03:41:51.569326436Z"
