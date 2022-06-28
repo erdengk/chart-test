@@ -1,10 +1,6 @@
 # shenyu-helm-chart-test
+
 Helm deployment documentation written for Apache/Shenyu
-
-# Artifact Hub
-
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/shenyu-test)](https://artifacthub.io/packages/search?repo=shenyu-test)
-
 
 ## Usage-test
 
@@ -17,7 +13,5 @@ add repo
 install:
 
 > helm install my-shenyu shenyu/shenyu --version 2.4.2
-
-main readme
 
 have fun～
